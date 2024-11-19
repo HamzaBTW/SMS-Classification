@@ -11,7 +11,7 @@ This project focuses on classifying SMS messages as **spam** or **ham (non-spam)
 ## Dataset
 The project uses the `spam.tsv` dataset, containing labeled SMS data for spam and ham classification.
 
-## Technologies Used
+## Applications Used
 - Python
 - Jupyter Notebook
 - NLP libraries: NLTK, scikit-learn
